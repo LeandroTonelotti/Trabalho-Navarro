@@ -1,7 +1,7 @@
 import mqtt from "mqtt";
 
 const options = {
-  clientId: "subscriber_01",
+  clientId: "subscriber_fogo",
   clean: false
 };
 
